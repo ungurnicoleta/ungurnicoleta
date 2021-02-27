@@ -6,7 +6,7 @@ When I am not in front of a computer, I am probably doing something else like re
 
 Passionate about tech, web development, mobile app development, and of course coffee. 
 
-My guilty pleasures books, cats, music & art 📚🎨
+My guilty pleasures: books, cats, music & art 📚🎨
 
 Let's get to know each other.
 
