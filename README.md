@@ -12,3 +12,15 @@ Let's get to know each other.
 
 
 - 📫 Reach me: ungurnicoleta1998@gmail.com or [nungur](https://www.nungur.com)
+
+
+### Stats
+
+<p align="center">
+  <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ungurnicoleta&hide_title=true&show_icons=true&theme=tokyonight" alt="ungurnicoleta" />  
+  <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungurnicoleta&hide_title=false&layout=compact&theme=tokyonight" alt="ungurnicoleta" />
+</p>
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ungurnicoleta&theme=dark&hide_border=true"/>
+</p>
