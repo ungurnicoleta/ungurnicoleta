@@ -19,7 +19,7 @@ Let's get to know each other.
 
 
 
-### Stats
+<!-- ### Stats
 
 <p align="center">
   <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=ungurnicoleta&hide_title=true&show_icons=true&theme=tokyonight" alt="ungurnicoleta" />  
@@ -29,3 +29,4 @@ Let's get to know each other.
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ungurnicoleta&theme=dark&hide_border=true"/>
 </p>
+ -->
