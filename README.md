@@ -8,7 +8,7 @@ Passionate about tech, web development, mobile app development, and of course co
 
 My guilty pleasures: books, cats, music & art 📚🎨
 
-Let's get to know each other.
+Let's get to know each other. [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nicoletaungur) 
 
 
 - 📫 Reach me: ungurnicoleta1998@gmail.com or [nungur](https://www.nungur.com)
@@ -32,5 +32,7 @@ Let's get to know each other.
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ungurnicoleta&theme=dark&hide_border=true"/>
 </p>
-
  -->
+ 
+  
+
